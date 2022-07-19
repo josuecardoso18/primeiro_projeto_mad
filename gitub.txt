@@ -10,3 +10,5 @@ git remote add origin
 https://github.com/josuecardoso18/primeiro_projeto_mad.git
 git push - u origem principal
 
+git config --global -l
+
